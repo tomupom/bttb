@@ -1,4 +1,4 @@
-![landing-image](/diary.GIF)
+![landing-image](/diary.gif)
 
 # thac.xyz
 ## _a research project site and repository_
