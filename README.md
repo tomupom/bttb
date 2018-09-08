@@ -1,6 +1,6 @@
 ![landing-image](/diary.gif)
 
-# thac.xyz
+# [thac.xyz](https://thac.xyz)
 ## _a research project site and repository_
 
 made in the second half of 2018
