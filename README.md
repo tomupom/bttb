@@ -1,4 +1,5 @@
 ![landing-image](/diary.gif)
+Format: ![readme](https://thac.xyz)
 
 # [thac.xyz](https://thac.xyz)
 ## _a research project site and repository_
