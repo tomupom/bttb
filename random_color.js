@@ -1,3 +1,5 @@
+// This JS was taken from the Indexhibit website and modified for my liking. The original author is Jeffery Vaska (https://vaska.com/)
+
 ;(function(root, factory) {
 
   // Support AMD
