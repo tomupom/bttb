@@ -3,7 +3,7 @@ var bColor;
 
 $(document).ready(function() 
 {
-	//var textColors = ['#A13206','#3E7522','#224A75','#453D34','#313D22','#5E05ED','#548781','#57316E','#96932F','#005f70','#1d3d10', '#a37000', '#961302', '#4a0b85', '#18264d', '#3a4004', '#49394a', '#4d590d', '#3b2201'];
+	//var textColors = ['#A13206','#3E7522','#224A75','#453D34','#313D22','#5E05ED','#548781','#57316E','#96932F','#005f70','#1d3d10', '#a37000', '#961302', '#4a0b85', '#18264d', '#3a4004', '#49394a', '#4d590d', '#ffffff'];
 	//aColor = textColors[Math.floor(Math.random() * textColors.length)];
 	
 	//var bgColors = ['#E8D1D1','#E8E1D1','#DFE8D1','#D1E8DB','#D1E1E8','#D1D4E8','#E2D1E8','#C5CCAB','#CCA6F5','#C9B5AD', '#f0efdf', '#fffd73', '#e6dbbc', '#daniel', '#vaskad', '#f9ffd1', '#d4d4d4', '#d9d9ca', '#fcfc81', '#ded6b6', '#cef2f2', '#e6dae1', '#jeffry','#000000'];
