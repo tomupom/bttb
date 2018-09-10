@@ -113,7 +113,7 @@
 
     var brightness,
         bMin = getMinimumBrightness(H, S),
-        bMax = 100;
+        bMax = 70;
 
     switch (options.luminosity) {
 
